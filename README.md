@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alhubbar673
-- 👀 I’m interested in NASA, space exploration, rocketry, robotics, and manufacturing technologies.   
+- 👀 I’m interested in NASA, space exploration, rocketry, robotics, agriculture, and manufacturing technologies.   
 - 🌱 I’m currently learning embedded firmware design, UART, baud rate generation, and PCB design.
 - 💞️ I’m looking to collaborate on embedded systems development.
 
